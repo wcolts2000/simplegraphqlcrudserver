@@ -1,0 +1,26 @@
+{
+  "name": "graphqlserver",
+  "version": "1.0.0",
+  "description": "simple crud graphql server example",
+  "main": "server.js",
+  "scripts": {
+    "json:server": "json-server --watch data.json",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "graphql",
+    "server",
+    "crud"
+  ],
+  "author": "Sean Pheneger",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1",
+    "json-server": "^0.14.2",
+    "nodemon": "^1.18.9"
+  }
+}

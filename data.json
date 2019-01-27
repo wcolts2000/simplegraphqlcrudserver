@@ -1,0 +1,106 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "age": 36
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "janedoe@gmail.com",
+      "age": 31
+    },
+    {
+      "id": "3",
+      "name": "Jack Jones",
+      "email": "jj@gmail.com",
+      "age": 38
+    },
+    {
+      "id": "5",
+      "name": "Ellen Johnson",
+      "email": "ejohn@gmail.com",
+      "age": 39
+    },
+    {
+      "id": "6",
+      "name": "Zena Schwartz",
+      "email": "zschwar@gmail.com",
+      "age": 50
+    },
+    {
+      "id": "7",
+      "name": "Chloe Smith",
+      "email": "csmith@gmail.com",
+      "age": 28
+    },
+    {
+      "id": "8",
+      "name": "Freddie Janson",
+      "email": "fjanny@gmail.com",
+      "age": 29
+    },
+    {
+      "id": "9",
+      "name": "Terry Hanson",
+      "email": "Hanter@gmail.com",
+      "age": 42
+    },
+    {
+      "id": "10",
+      "name": "Chrystal Washington",
+      "email": "charwash@gmail.com",
+      "age": 46
+    },
+    {
+      "id": "11",
+      "name": "Haley Johnson",
+      "email": "hayjay@gmail.com",
+      "age": 32
+    },
+    {
+      "id": "12",
+      "name": "Chad Eiden",
+      "email": "chaddaman@gmail.com",
+      "age": 39
+    },
+    {
+      "id": "13",
+      "name": "Jose Gutierrez",
+      "email": "joselogut@gmail.com",
+      "age": 26
+    },
+    {
+      "id": "14",
+      "name": "Ali Sundaran",
+      "email": "ali@gmail.com",
+      "age": 39
+    },
+    {
+      "id": "15",
+      "name": "Mary Beckworth",
+      "email": "maybeck@gmail.com",
+      "age": 40
+    },
+    {
+      "id": "16",
+      "name": "Mario Vessuchi",
+      "email": "italyforlife@gmail.com",
+      "age": 30
+    },
+    {
+      "name": "Harry Whoeman",
+      "email": "thaHarryBeast@yahoo.com",
+      "age": 26,
+      "id": "nlFZSps"
+    },
+    {
+      "name": "Karrie Wilcox",
+      "email": "karexoc@rocketmail.com",
+      "age": 21,
+      "id": "tXSjMpw"
+    }
+  ]
+}
